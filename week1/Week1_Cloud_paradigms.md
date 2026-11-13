@@ -1,4 +1,4 @@
-# A1 – Cloud Paradigm Notes (IaaS, PaaS, SaaS)
+# A1 – Cloud paradigm Notes ( IaaS, PaaS, SaaS)
 
 ## 1. Comparison Table
 
